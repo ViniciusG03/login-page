@@ -16,4 +16,6 @@ Se o usuário não informar um e-mail e senha validos, o botão de submit não �
 
 ![image](https://github.com/ViniciusG03/login-page/assets/142799171/be814d60-a77c-45bf-a180-1ead152ba1e4)
 
+link do repositório do back-end: [link](https://github.com/ViniciusG03/login-auth-api)
+
 
